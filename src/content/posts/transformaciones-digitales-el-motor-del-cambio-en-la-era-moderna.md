@@ -1,5 +1,5 @@
 ---
-title: Transformaciones digitales: el motor del cambio en la era moderna
+title: "Transformaciones digitales: el motor del cambio en la era moderna"
 published: 2025-10-29
 description: 'Explora cómo las transformaciones digitales están revolucionando empresas, procesos y la vida cotidiana.'
 image: ''
