@@ -1,5 +1,5 @@
 ---
-title: Reflexiones sobre las Automatizaciones: ¿Aliadas o Amenazas?
+title: "Reflexiones sobre las Automatizaciones ¿Aliadas o Amenazas?"
 published: 2025-10-29
 description: 'Exploramos los impactos positivos y desafíos de la automatización en la vida personal y profesional.'
 image: ''
